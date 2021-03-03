@@ -46,6 +46,8 @@ export default {
 </script>
 
 <style scoped>
+@import "assets/css/base.css";
+
 .tab-control {
   position: absolute;
   top: 49px;
